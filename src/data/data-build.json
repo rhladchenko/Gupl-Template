@@ -1,0 +1,4 @@
+{
+  "build": true,
+  "layout": "layouts/build.twig"
+}

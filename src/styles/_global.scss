@@ -1,0 +1,48 @@
+html {
+  
+}
+
+body {
+  overflow-x: hidden;
+
+
+  // @keyframes page-appear {
+  //   0% {
+  //     opacity: 0;
+  //   }
+  //   70% {
+  //     opacity: 0;
+  //   }
+  //   100% {
+  //     opacity: 1;
+  //   }
+  // }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+// %content {
+//   margin: 0 20px;
+//   width: calc(100% - 40px);
+
+//   @include tablet-up {
+//     width: 81.25%;
+//     margin: 0 auto;
+//   }
+
+//   @include desktop-up {
+//     width: 65%;
+//   }
+// }
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

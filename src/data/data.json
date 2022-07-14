@@ -1,0 +1,79 @@
+{
+  "pageTitle": "HVA306",
+  "layout": "layouts/public.twig",
+  "stylesheet": "css/styles.min.css",
+  "buttons":{
+    "show_everest_report": {
+      "id": "show_everest_report",
+      "link": "downloads/THIS_IS_A_TEST_PDF.pdf",
+      "download": true,
+      "target": "_blank"
+    },
+    "download_everest_report": {
+      "id": "download_everest_report",
+      "link": "downloads/THIS_IS_A_TEST_PDF.pdf",
+      "download": false,
+      "target": "_blank"
+    },
+    "show_idc_market_spotlight": {
+      "id": "show_idc_market_spotlight",
+      "link": "https://stage.hitachivantara.com/en-us/pdf/analyst-content/midrange-storage-comes-of-age-with-new-capabilities.pdf?q=1&ecid=ba_glo_os_en_vrpoiuyt9&utm_source=hv_partner&utm_medium=display&utm_content=idc-spotlight-world-class-midrange-storage&utm_campaign=4-1-2-IDCMarketSpotlight-DI-12-Enter-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "download_idc_market_spotlight": {
+      "id": "download_idc_market_spotlight",
+      "link": "https://stage.hitachivantara.com/en-us/pdf/analyst-content/midrange-storage-comes-of-age-with-new-capabilities.pdf?q=1&ecid=ba_glo_os_en_vrpoiuyt9&utm_source=hv_partner&utm_medium=display&utm_content=idc-spotlight-world-class-midrange-storage&utm_campaign=4-1-2-IDCMarketSpotlight-DI-12-Enter-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "see_idc_customer_spotlight": {
+      "id": "see_idc_customer_spotlight",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/storage-reliability-critical-to-danish-hosting-providers-success.pdf?q=1&ecid=ba_glo_os_en_vrpoiuyt0&utm_source=hv_partner&utm_medium=display&utm_content=idc-spotlight-world-class-midrange-storage&utm_campaign=4-1-2-IDCCustomerSpotlight-DI-12-Enter-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "show_report_finops": {
+      "id": "show_report_finops",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/hbr-balancing-cloud-costs-business-goals-with-finops.pdf?q=1&ecid=ba_glo_ci_en_vrgghhyy3&utm_source=hv_partner&utm_medium=display&utm_content=2-2-1-HBRFinOpsPaper-DS-17-All_Seg-FY21-Q4-Global-OPC&utm_campaign=2-2-1-HBRFinOpsPaper-DS-17-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "download_report_finops": {
+      "id": "download_report_finops",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/hbr-balancing-cloud-costs-business-goals-with-finops.pdf?q=1&ecid=ba_glo_ci_en_vrgghhyy3&utm_source=hv_partner&utm_medium=display&utm_content=2-2-1-HBRFinOpsPaper-DS-17-All_Seg-FY21-Q4-Global-OPC&utm_campaign=2-2-1-HBRFinOpsPaper-DS-17-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "download_report_lumada": {
+      "id": "download_report_lumada",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/dataops-strategy-helps-optimize-data-fabric-approach.pdf?q=1&utm_source=hv_partner&utm_medium=misc&utm_content=&utm_campaign=2-3-2-451-DataOps-DS-14-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "show_report_index": {
+      "id": "show_report_index",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/dataops-aligning-business-goals-with-data-strategy.pdf?q=1&utm_source=hv_partner&utm_medium=display&utm_content=2-3-2-HBR-DataOps-DS-14-All_Seg-FY21-Q4-Global-OPC&utm_campaign=2-3-2-HBR-DataOps-DS-14-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "download_report_index": {
+      "id": "download_report_index",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/dataops-aligning-business-goals-with-data-strategy.pdf?q=1&utm_source=hv_partner&utm_medium=display&utm_content=2-3-2-HBR-DataOps-DS-14-All_Seg-FY21-Q4-Global-OPC&utm_campaign=2-3-2-HBR-DataOps-DS-14-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "show_study_forrester": {
+      "id": "show_study_forrester",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/tei-cloud-application-modernization-services.pdf?q=1&utm_source=hv_partner&utm_medium=misc&utm_content=&utm_campaign=2-2-1-ForresterTEI-DS-17-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    },
+    "download_study_forrester": {
+      "id": "download_study_forrester",
+      "link": "https://www.hitachivantara.com/en-us/pdf/analyst-content/tei-cloud-application-modernization-services.pdf?q=1&utm_source=hv_partner&utm_medium=misc&utm_content=&utm_campaign=2-2-1-ForresterTEI-DS-17-All_Seg-FY21-Q4-Global-OPC",
+      "download": false,
+      "target": "_blank"
+    }
+  }
+}
